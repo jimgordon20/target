@@ -1,4 +1,4 @@
-## OLD VERSION ##
+## OLD VERSION - YOU MUST RENAM FOLDER TO qb-target ##
 
 # qb-target
 
